@@ -1,0 +1,108 @@
+[2025-03-07 21:07:38] [INFO] Pattern: #####
+#####
+#####
+#####
+##### validated
+[2025-03-07 21:07:38] [SEVERE] Pattern: #####
+#####
+#####
+#####
+##### validated
+[2025-03-07 21:08:18] [INFO] Pattern: false validated
+[2025-03-07 21:08:18] [INFO] Pattern: false validated
+[2025-03-07 21:08:27] [INFO] Pattern: true validated
+[2025-03-07 21:08:27] [INFO] Pattern: false validated
+[2025-03-07 21:08:33] [INFO] Attempting to authenticate user admin
+[2025-03-07 21:08:33] [INFO] Validating MFA
+[2025-03-07 21:08:33] [INFO] Validating with Pattern: Pattern.Bloc.com.mhdb.mhdb.Pattern@e2d56bf
+[2025-03-07 21:08:41] [INFO] MFA Successfully validated
+[2025-03-07 21:08:41] [INFO] User admin successfully authenticated
+[2025-03-07 21:08:41] [INFO] UserID : -1371635322 successfully logged in from 159.248.226.6
+[2025-03-07 21:08:41] [INFO] Authentication successful
+[2025-03-07 21:11:30] [INFO] Attempting to authenticate user admin
+[2025-03-07 21:11:30] [INFO] Authentication successful
+[2025-03-07 21:11:40] [INFO] Is token valid? true
+[2025-03-07 21:11:40] [INFO] testPasswordResetValidity PASSED
+[2025-03-07 21:11:40] [INFO] Generated Token: QmuuSujexeUSzIZa0ROiLlo0bZueAHCsWF4tUTTBKp0
+[2025-03-07 21:11:40] [INFO] Token Length: 43
+[2025-03-07 21:11:40] [INFO] testTokenGeneration PASSED
+[2025-03-07 21:12:19] [INFO] Is token valid? true
+[2025-03-07 21:12:19] [INFO] testPasswordResetValidity PASSED
+[2025-03-07 21:12:19] [INFO] Generated Token: l63u_uz2JhaqXX4vlzFKS-2SdT9gzplTO7EUOVPHDog
+[2025-03-07 21:12:19] [INFO] Token Length: 43
+[2025-03-07 21:12:19] [INFO] testTokenGeneration PASSED
+[2025-03-07 21:13:00] [INFO] Is token valid? true
+[2025-03-07 21:13:00] [INFO] testPasswordResetValidity PASSED
+[2025-03-07 21:13:00] [INFO] Generated Token: kOwcW-eeX8IseQ9sNh9hcrgZpwnEHaDJ9IfglEOodr4
+[2025-03-07 21:13:00] [INFO] Token Length: 43
+[2025-03-07 21:13:00] [INFO] testTokenGeneration PASSED
+[2025-03-07 21:13:03] [INFO] Is token valid? true
+[2025-03-07 21:13:03] [INFO] testPasswordResetValidity PASSED
+[2025-03-07 21:13:03] [INFO] Generated Token: q8dRdXLFmTB9OjBbtjPjkLv3op1_Tu_ZMx4gUkkoVPE
+[2025-03-07 21:13:03] [INFO] Token Length: 43
+[2025-03-07 21:13:03] [INFO] testTokenGeneration PASSED
+[2025-03-07 21:19:29] [INFO] Attempting to authenticate user admin
+[2025-03-07 21:19:29] [INFO] Authentication Passed
+[2025-03-07 21:19:29] [INFO] New Database Result : Passed
+[2025-03-07 21:19:29] [INFO] Using MYDB database
+[2025-03-07 21:19:29] [INFO] Use MYDB Database : Passed
+[2025-03-07 21:35:24] [INFO] Attempting to authenticate user admin
+[2025-03-07 21:35:24] [INFO] Authentication Passed
+[2025-03-07 21:35:24] [INFO] New Database Result : Passed
+[2025-03-07 21:35:24] [INFO] Using MYDB database
+[2025-03-07 21:35:24] [INFO] Use MYDB Database : Passed
+[2025-03-07 21:35:26] [INFO] Using MYDB database
+[2025-03-07 21:35:26] [INFO] Table false
+[2025-03-07 21:36:19] [INFO] Using MYDB database
+[2025-03-07 21:36:22] [INFO] Table false
+[2025-03-07 21:36:51] [INFO] Using MYDB database
+[2025-03-07 21:36:51] [INFO] Table false
+[2025-03-07 21:36:52] [INFO] Using MYDB database
+[2025-03-07 21:37:21] [INFO] Using MYDB database
+[2025-03-07 21:37:22] [INFO] Table false
+[2025-03-07 21:37:22] [INFO] Using MYDB database
+[2025-03-07 21:37:49] [INFO] Using MYDB database
+[2025-03-07 21:37:49] [INFO] Table false
+[2025-03-07 21:37:49] [INFO] Using MYDB database
+[2025-03-07 21:38:00] [INFO] Using MYDB database
+[2025-03-07 21:38:01] [INFO] Table false
+[2025-03-07 21:38:02] [INFO] Using MYDB database
+[2025-03-07 21:39:05] [INFO] Using MYDB database
+[2025-03-07 21:39:05] [INFO] Table false
+[2025-03-07 21:39:05] [INFO] Using MYDB database
+[2025-03-07 21:39:33] [INFO] Using MYDB database
+[2025-03-07 21:39:52] [INFO] Using MYDB database
+[2025-03-07 21:40:33] [INFO] Using MYDB database
+[2025-03-07 21:42:10] [INFO] Using MYDB database
+[2025-03-07 21:42:33] [INFO] Using MYDB database
+[2025-03-07 21:42:37] [INFO] Table false
+[2025-03-07 21:42:45] [INFO] Using MYDB database
+[2025-03-07 21:43:31] [INFO] Table false
+[2025-03-07 21:43:32] [INFO] Using MYDB database
+[2025-03-07 21:43:36] [INFO] Table false
+[2025-03-07 21:45:13] [INFO] Using MYDB database
+[2025-03-07 21:45:31] [INFO] Table Insertion  false
+[2025-03-07 21:45:32] [INFO] Using MYDB database
+[2025-03-07 21:45:51] [INFO] Table Insertion  false
+[2025-03-07 21:45:53] [INFO] Using MYDB database
+[2025-03-07 21:45:53] [INFO] Table Insertion  false
+[2025-03-07 21:46:08] [INFO] Using MYDB database
+[2025-03-07 21:46:08] [INFO] Table Insertion  false
+[2025-03-07 21:47:26] [INFO] Using MYDB database
+[2025-03-07 21:47:26] [INFO] Table Insertion  true
+[2025-03-07 21:56:06] [INFO] Attempting to authenticate user admin
+[2025-03-07 21:56:06] [INFO] Authentication Passed
+[2025-03-07 21:56:06] [INFO] New Database Result : Passed
+[2025-03-07 21:56:06] [INFO] Using MYDB database
+[2025-03-07 21:56:06] [INFO] Use MYDB Database : Passed
+[2025-03-07 21:56:31] [INFO] Is token valid? true
+[2025-03-07 21:56:31] [INFO] testPasswordResetValidity PASSED
+[2025-03-07 21:56:31] [INFO] Generated Token: FsMK3BiJHV4Wd0aO9Avd1P6vcHPsy9eliLI5npAWJDk
+[2025-03-07 21:56:31] [INFO] Token Length: 43
+[2025-03-07 21:56:31] [INFO] testTokenGeneration PASSED
+[2025-03-07 21:56:46] [INFO] Pattern: true Passed
+[2025-03-07 21:56:46] [INFO] Failure Pattern: false Passed
+[2025-03-07 21:57:03] [INFO] Using MYDB database
+[2025-03-07 21:57:03] [INFO] Table false
+[2025-03-07 21:57:03] [INFO] Using MYDB database
+[2025-03-07 21:57:03] [INFO] Table Insertion  true
